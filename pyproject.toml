@@ -1,0 +1,19 @@
+[project]
+name = "llmsfordatascience"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "langchain>=1.0.7",
+    "langchain-core>=1.0.5",
+    "langchain-openai>=1.0.3",
+    "matplotlib>=3.10.7",
+    "openai>=2.8.0",
+    "pandas>=2.3.3",
+    "sentencepiece>=0.2.1",
+    "torch>=2.9.1",
+    "transformers>=4.57.1",
+    "watermark>=2.5.0",
+]
