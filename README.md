@@ -82,15 +82,10 @@ The `data/` directory contains datasets and media files used in the notebooks, i
 
 ## Author
 
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
 <table border="0">
  <tr>
     <td>
-      <img src="data/bgoncalves.jpeg" alt="Bruno Gonçalves" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <img src="data/bgoncalves.png" alt="Bruno Gonçalves" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
     </td>
     <td>
       <h2>Bruno Gonçalves</h2>
