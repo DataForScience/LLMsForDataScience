@@ -82,19 +82,21 @@ The `data/` directory contains datasets and media files used in the notebooks, i
 
 ## Author
 
-<div style="display: flex; align-items: center;">
-    <div style="width: 150px; margin-right: 20px;">
-        <img src="data/bgoncalves.jpeg" alt="Bruno Gonçalves" width="150" style="border-radius: 50%;">
-    </div>
-    <div>
-        <h2>Bruno Gonçalves</h2>
-        <p><strong>Data For Science, Inc.</strong></p>
-        <p>
+<table border="0">
+ <tr>
+    <td>
+      <img src="data/bgoncalves.jpeg" alt="Bruno Gonçalves" width="150" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h2>Bruno Gonçalves</h2>
+      <p><strong>Data For Science, Inc.</strong></p>
+      <p>
             Web: <a href="http://www.data4sci.com/">www.data4sci.com</a><br>
             Twitter/X: <a href="https://twitter.com/bgoncalves">@bgoncalves</a><br>
             LinkedIn: <a href="https://www.linkedin.com/in/bmtgoncalves/">@bmtgoncalves</a><br>
             Email: <a href="mailto:info@data4sci.com">info@data4sci.com</a><br>
-            Schedule a Call: <a href="https://data4sci.com/call">https://data4sci.com/call</a><br>
-        </p>
-    </div>
-</div>
+            Schedule a Call: <a href="https://data4sci.com/call">https://data4sci.com/call</a>
+      </p>
+    </td>
+ </tr>
+</table>
