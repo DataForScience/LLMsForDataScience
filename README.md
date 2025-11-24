@@ -11,8 +11,7 @@ In this course, you will learn how to use large language models to perform data 
 This tutorial is divided into four parts:
 
 
-1. **Generative AI for Data Science** (`1. Generative AI.ipynb`)
-
+### 1. **Generative AI for Data Science**
 _Introduction to the fundamental concepts of Generative AI._
   - Generative AI
   - Large Language Models
@@ -21,8 +20,7 @@ _Introduction to the fundamental concepts of Generative AI._
   - LangChain
 
 
-2. **Prompt Engineering** (`2. Prompt Engineering.ipynb`)
-
+### 2. **Prompt Engineering**
 _Techniques and best practices for designing effective prompts to guide Large Language Models._
   - Output formatting
   - Prompt Techniques
@@ -30,8 +28,7 @@ _Techniques and best practices for designing effective prompts to guide Large La
   - Chain of Thought
 
 
-3. **NLP with HuggingFace** (`3. NLP with HuggingFace.ipynb`)
-
+### 3. **NLP with HuggingFace**
 _Practical examples of using the HuggingFace `transformers` library for Natural Language Processing tasks._
   - Named-Entity Recognition
   - Part-of-Speech Tagging
@@ -39,8 +36,7 @@ _Practical examples of using the HuggingFace `transformers` library for Natural 
   - Question Answering
 
 
-4. **Text to Speech with Open AI** (`4. Whisper.ipynb`)
-
+### 4. **Text to Speech with Open AI**
 _Working with Audio: Speech-to-Text and transcription using OpenAI's Whisper model._
   - The Whisper model
   - Generating audio from text
