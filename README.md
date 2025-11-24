@@ -89,7 +89,7 @@ The `data/` directory contains datasets and media files used in the notebooks, i
     </td>
     <td>
       <h2>Bruno Gonçalves</h2>
-      <p><strong>Data For Science, Inc.</strong></p>
+      <h3>Data For Science, Inc.</h3>
       <p>
             Web: <a href="http://www.data4sci.com/">www.data4sci.com</a><br>
             Twitter/X: <a href="https://twitter.com/bgoncalves">@bgoncalves</a><br>
