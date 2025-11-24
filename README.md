@@ -12,7 +12,9 @@ This tutorial is divided into four parts:
 
 
 1. **Generative AI for Data Science** (`1. Generative AI.ipynb`)
+
 _Introduction to the fundamental concepts of Generative AI._
+
     - Generative AI
     - Large Language Models
     - OpenAI
@@ -21,7 +23,9 @@ _Introduction to the fundamental concepts of Generative AI._
 
 
 2. **Prompt Engineering** (`2. Prompt Engineering.ipynb`)
+
 _Techniques and best practices for designing effective prompts to guide Large Language Models._
+
     - Output formatting
     - Prompt Techniques
     - Zero-Shot and Few-Shot Prompting
@@ -29,7 +33,9 @@ _Techniques and best practices for designing effective prompts to guide Large La
 
 
 3. **NLP with HuggingFace** (`3. NLP with HuggingFace.ipynb`)
+
 _Practical examples of using the HuggingFace `transformers` library for Natural Language Processing tasks._
+
     - Named-Entity Recognition
     - Part-of-Speech Tagging
     - Summarization
@@ -37,7 +43,9 @@ _Practical examples of using the HuggingFace `transformers` library for Natural 
 
 
 4. **Text to Speech with Open AI** (`4. Whisper.ipynb`)
+
 _Working with Audio: Speech-to-Text and transcription using OpenAI's Whisper model._
+
     - The Whisper model
     - Generating audio from text
     - Audio transcription
@@ -94,7 +102,7 @@ The `data/` directory contains datasets and media files used in the notebooks, i
             Web: <a href="http://www.data4sci.com/">www.data4sci.com</a><br>
             Twitter/X: <a href="https://twitter.com/bgoncalves">@bgoncalves</a><br>
             LinkedIn: <a href="https://www.linkedin.com/in/bmtgoncalves/">@bmtgoncalves</a><br>
-            Email: <a href="mailto:info@data4sci.com">info@data4sci.com</a><br>
+            Email: <a href="info@data4sci.com">info@data4sci.com</a><br>
             Schedule a Call: <a href="https://data4sci.com/call">https://data4sci.com/call</a>
       </p>
     </td>
