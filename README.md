@@ -13,11 +13,12 @@ This tutorial is divided into four parts:
 
 1. **Generative AI for Data Science** (`1. Generative AI.ipynb`)
 _Introduction to the fundamental concepts of Generative AI._
-- Generative AI
-- Large Language Models
-- OpenAI
-- Hugging Face
-- LangChain
+    - Generative AI
+    - Large Language Models
+    - OpenAI
+    - Hugging Face
+    - LangChain
+
 
 2. **Prompt Engineering** (`2. Prompt Engineering.ipynb`)
 _Techniques and best practices for designing effective prompts to guide Large Language Models._
@@ -26,12 +27,14 @@ _Techniques and best practices for designing effective prompts to guide Large La
     - Zero-Shot and Few-Shot Prompting
     - Chain of Thought
 
+
 3. **NLP with HuggingFace** (`3. NLP with HuggingFace.ipynb`)
 _Practical examples of using the HuggingFace `transformers` library for Natural Language Processing tasks._
     - Named-Entity Recognition
     - Part-of-Speech Tagging
     - Summarization
     - Question Answering
+
 
 4. **Text to Speech with Open AI** (`4. Whisper.ipynb`)
 _Working with Audio: Speech-to-Text and transcription using OpenAI's Whisper model._
@@ -79,6 +82,19 @@ The `data/` directory contains datasets and media files used in the notebooks, i
 
 ## Author
 
-**Bruno Gonçalves**  
-[Data For Science, Inc](http://www.data4sci.com/)  
-Twitter/X: [@bgoncalves](https://twitter.com/bgoncalves)
+<div style="display: flex; align-items: center;">
+    <div style="width: 150px; margin-right: 20px;">
+        <img src="data/bgoncalves.jpeg" alt="Bruno Gonçalves" width="150" style="border-radius: 50%;">
+    </div>
+    <div>
+        <h2>Bruno Gonçalves</h2>
+        <p><strong>Data For Science, Inc.</strong></p>
+        <p>
+            Web: <a href="http://www.data4sci.com/">www.data4sci.com</a><br>
+            Twitter/X: <a href="https://twitter.com/bgoncalves">@bgoncalves</a><br>
+            LinkedIn: <a href="https://www.linkedin.com/in/bmtgoncalves/">@bmtgoncalves</a><br>
+            Email: <a href="mailto:info@data4sci.com">info@data4sci.com</a><br>
+            Schedule a Call: <a href="https://data4sci.com/call">https://data4sci.com/call</a><br>
+        </p>
+    </div>
+</div>
