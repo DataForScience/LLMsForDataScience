@@ -14,38 +14,38 @@ This tutorial is divided into four parts:
 1. **Generative AI for Data Science** (`1. Generative AI.ipynb`)
 
 _Introduction to the fundamental concepts of Generative AI._
-    - Generative AI
-    - Large Language Models
-    - OpenAI
-    - Hugging Face
-    - LangChain
+  - Generative AI
+  - Large Language Models
+  - OpenAI
+  - Hugging Face
+  - LangChain
 
 
 2. **Prompt Engineering** (`2. Prompt Engineering.ipynb`)
 
 _Techniques and best practices for designing effective prompts to guide Large Language Models._
-    - Output formatting
-    - Prompt Techniques
-    - Zero-Shot and Few-Shot Prompting
-    - Chain of Thought
+  - Output formatting
+  - Prompt Techniques
+  - Zero-Shot and Few-Shot Prompting
+  - Chain of Thought
 
 
 3. **NLP with HuggingFace** (`3. NLP with HuggingFace.ipynb`)
 
 _Practical examples of using the HuggingFace `transformers` library for Natural Language Processing tasks._
-    - Named-Entity Recognition
-    - Part-of-Speech Tagging
-    - Summarization
-    - Question Answering
+  - Named-Entity Recognition
+  - Part-of-Speech Tagging
+  - Summarization
+  - Question Answering
 
 
 4. **Text to Speech with Open AI** (`4. Whisper.ipynb`)
 
 _Working with Audio: Speech-to-Text and transcription using OpenAI's Whisper model._
-    - The Whisper model
-    - Generating audio from text
-    - Audio transcription
-    - Automatic Translation
+  - The Whisper model
+  - Generating audio from text
+  - Audio transcription
+  - Automatic Translation
 
 ## Environment Setup
 
