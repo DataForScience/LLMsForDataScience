@@ -4,8 +4,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/LLMsForDataScience)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/LLMsForDataScience)
 
-[![Data For Science Substack](https://img.shields.io/badge/Graphs_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
-	[![Data Science Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4science.kit.com/a63d4cc8d9)
+[![Data For Science Substack](https://img.shields.io/badge/Data_For_Science-Subscribe-blue)](https://graphs4sci.substack.com/)
+	[![Data Science Briefing](https://img.shields.io/badge/Data_Science_Briefing-Subscribe-blue)](https://data4science.kit.com/a63d4cc8d9)
 
 # LLMs for Data Science
 
